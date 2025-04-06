@@ -16,7 +16,7 @@ I have published around **40 papers** in international conferences and served as
 
 
 ## 🗞 News
-
+<hr style="height:4px; background-color:red; border:none; margin-top:0; margin-bottom:1.5em;" />
 ### 2025
 - 🎉 **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
