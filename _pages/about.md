@@ -18,28 +18,45 @@ I have published around **40 papers** in international conferences and served as
 ### News
 <div style="height: 4px; background-color: red;"></div>
 
-### 2025
-- 🎉 **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+<h2>News</h2>
+<hr style="height:4px; background-color:red; border:none; margin-top:0; margin-bottom:1.5em;" />
 
-### 2024
-- 🎉 **Sensing to Hear through Memory: Ultrasound Speech Enhancement without Real Ultrasound Signals**  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+<table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
+  <!-- 2025 -->
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">2025</strong></td>
+    <td style="border: none;">🎉 <strong>WearSE:</strong> Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing. <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</em>.</td>
+  </tr>
 
-- 🎉 **Lipwatch: Enabling Silent Speech Recognition on Smartwatches Using Acoustic Sensing**  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+  <!-- 2024 -->
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">2024</strong></td>
+    <td style="border: none;">🎉 <strong>Sensing to Hear through Memory:</strong> Ultrasound Speech Enhancement without Real Ultrasound Signals. <em>IMWUT</em>.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;">🎉 <strong>Lipwatch:</strong> Enabling Silent Speech Recognition on Smartwatches Using Acoustic Sensing. <em>IMWUT</em>.</td>
+  </tr>
 
-### 2023
-- 🎉 **Cross-Domain Gesture Sequence Recognition for Two-Player Exergames Using COTS mmWave Radar**  
-  *Proceedings of the ACM on Human-Computer Interaction (PACMHCI), Issue 7*
+  <!-- 2023 -->
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">2023</strong></td>
+    <td style="border: none;">🎉 <strong>Cross-Domain Gesture Sequence Recognition</strong> for Two-Player Exergames Using COTS mmWave Radar. <em>PACMHCI, Issue 7</em>.</td>
+  </tr>
 
-### 2022
-- 🎉 **Facilitating Radar-based Gesture Recognition with Self-supervised Learning**  
-  *2022 IEEE International Conference on Sensing, Communication and Networking (SECON)*
+  <!-- 2022 -->
+  <tr>
+    <td style="border: none;"><strong style="font-size: 18px;">2022</strong></td>
+    <td style="border: none;">🎉 <strong>Facilitating Radar-based Gesture Recognition</strong> with Self-supervised Learning. <em>IEEE SECON 2022</em>.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;">🎉 <strong>Chemical Environment Dependent Stabilities</strong> in MoSi₂N₄ Monolayer. <em>Applied Surface Science</em>.</td>
+  </tr>
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none;">🎉 <strong>Wearsign:</strong> Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables. <em>IMWUT</em>.</td>
+  </tr>
+</table>
 
-- 🎉 **Chemical Environment Dependent Stabilities, Electronic Properties and Diffusion Behaviors of Intrinsic Point Defects in Novel Two-Dimensional MoSi₂N₄ Monolayer**  
-  *Applied Surface Science, Vol. 592*
-
-- 🎉 **Wearsign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables**  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
 
