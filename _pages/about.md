@@ -17,4 +17,30 @@ I received my **Bachelor’s degree in Engineering** from **Northwestern Polytec
 I have published around **40 papers** in international conferences and served as the **principal investigator** of a **National Natural Science Foundation of China (NSFC) Youth Project**.
 
 
-[Email](mailto:qiudi@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+## 🗞 News
+
+### 2025
+- 🎉 **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+
+### 2024
+- 🎉 **Sensing to Hear through Memory: Ultrasound Speech Enhancement without Real Ultrasound Signals**  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+
+- 🎉 **Lipwatch: Enabling Silent Speech Recognition on Smartwatches Using Acoustic Sensing**  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+
+### 2023
+- 🎉 **Cross-Domain Gesture Sequence Recognition for Two-Player Exergames Using COTS mmWave Radar**  
+  *Proceedings of the ACM on Human-Computer Interaction (PACMHCI), Issue 7*
+
+### 2022
+- 🎉 **Facilitating Radar-based Gesture Recognition with Self-supervised Learning**  
+  *2022 IEEE International Conference on Sensing, Communication and Networking (SECON)*
+
+- 🎉 **Chemical Environment Dependent Stabilities, Electronic Properties and Diffusion Behaviors of Intrinsic Point Defects in Novel Two-Dimensional MoSi₂N₄ Monolayer**  
+  *Applied Surface Science, Vol. 592*
+
+- 🎉 **Wearsign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables**  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*
+
