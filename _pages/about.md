@@ -14,7 +14,7 @@ Currently an [**Associate Research Professor**](http://www.se.sjtu.edu.cn/Data/V
 
 Received a **Bachelor’s degree in Engineering** from **Northwestern Polytechnical University** in 2011, followed by a **Master’s** (2015) and **Ph.D.** (2020) from [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
 
-Research efforts have resulted in approximately **40 publications** in international conferences. Also served as the **principal investigator** of a [**National Natural Science Foundation of China (NSFC)**](https://www.nsfc.gov.cn/) Youth Project.
+Research efforts have resulted in approximately **40 publications** in international conferences. Also served as the **principal investigator** of a **National Natural Science Foundation of China (NSFC)** Youth Project.
 
 ### News
 
