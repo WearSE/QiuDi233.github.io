@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Qiu's Personal Homepage"
+title                    : "Qian Zhang's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Di Qiu"
-description              : &description "a third year undergraduate student from Peking University"
+name                     : &name "Qian Zhang"
+description              : &description "Associate Research Professor at Shanghai Jiao Tong University"
 url                      : https://qiudi233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QiuDi233/QiuDi233.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "qwert3472@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
