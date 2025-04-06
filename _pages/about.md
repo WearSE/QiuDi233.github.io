@@ -14,8 +14,9 @@ I received my **Bachelor’s degree in Engineering** from **Northwestern Polytec
 
 I have published around **40 papers** in international conferences and served as the **principal investigator** of a **National Natural Science Foundation of China (NSFC) Youth Project**.
 
-<h2>News</h2>
-<hr style="height:4px; background-color:red; border:none; margin-top:0; margin-bottom:1.5em;" />
+### News
+
+<div style="height: 4px; background-color: red;"></div>
 
 <table style="width: 100%; border-collapse: collapse; background-color: transparent; border: none; font-size: 16px;">
   <!-- 2025 -->
