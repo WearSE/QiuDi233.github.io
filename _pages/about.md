@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, machine learning, computational photography and robotics.
+I am an **Associate Research Professor** at the **School of Software, Shanghai Jiao Tong University**. My research interests include **Internet of Things (IoT)**, **pervasive computing**, **mobile computing**, and **ubiquitous intelligent sensing**.
 
-I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) of BLV Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Boxin Shi](https://ci.idm.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I received my **Bachelor's degree in Engineering** from **Northwestern Polytechnical University** in 2011, my **Master's degree** from **Shanghai Jiao Tong University** in 2015, and my **Ph.D. degree** from **Shanghai Jiao Tong University** in 2020.
 
+I have been conducting long-term research in the field of IoT and have published around **40 papers** in international conferences. I have also served as the **principal investigator of a National Natural Science Foundation of China (NSFC) Youth Project**.
 You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/CV_Di_Qiu.pdf).
 
 **I’m actively seeking opportunities to pursue a Master's degree starting from Fall 2024.**
