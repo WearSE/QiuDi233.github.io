@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me
-
 Currently an [**Associate Research Professor**](http://www.se.sjtu.edu.cn/Data/View/575) at the [**School of Software**](http://www.se.sjtu.edu.cn/), [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), with research interests spanning **Internet of Things (IoT)**, **pervasive computing**, **mobile computing**, and **ubiquitous intelligent sensing**.
 
 Received a **Bachelor’s degree in Engineering** from **Northwestern Polytechnical University** in 2011, followed by a **Master’s** (2015) and **Ph.D.** (2020) from [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/).
