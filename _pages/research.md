@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research
-
 ### Research Positions
 
 - **Assistant Research Professor**, School of Software, Shanghai Jiao Tong University  
