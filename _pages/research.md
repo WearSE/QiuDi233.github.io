@@ -9,11 +9,9 @@ author_profile: true
 
 - **Assistant Research Professor**, School of Software, Shanghai Jiao Tong University  
   <span style="color:gray;">Nov. 2022 – Present</span>  
-  Conducting research on IoT, mobile computing, and acoustic sensing technologies.
 
 - **Postdoctoral Researcher**, Shanghai Jiao Tong University  
   <span style="color:gray;">Apr. 2020 – Oct. 2022</span>  
-  Focused on acoustic sensing and human-computer interaction.
 
 ---
 
