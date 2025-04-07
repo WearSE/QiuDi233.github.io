@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Data Mining and Big Data Analytics**  
-_Graduate Course, Spring , Shanghai Jiao Tong University_
+_Undergraduate Course, Spring , Shanghai Jiao Tong University_
 
-**Internet of Things Technologies**  
-_Undergraduate Course, Fall , Shanghai Jiao Tong University_
+**Internet of Things Technologies**  _Graduate
+_Graduate Course, Fall , Shanghai Jiao Tong University_
