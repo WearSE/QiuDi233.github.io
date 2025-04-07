@@ -7,22 +7,22 @@ author_profile: true
 
 ### 2025
 
-- **C1.** **<u>Q Zhang</u>**, K Guo, Y Yang, D Wang, **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2025.
+- **<u>Q Zhang</u>**, K Guo, Y Yang, D Wang, **WearSE: Enabling Streaming Speech Enhancement on Eyewear Using Acoustic Sensing**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2025.
 
 ### 2024
 
-- **C1.** **<u>Q Zhang</u>**, K Liu, D Wang, **Sensing to hear through memory: Ultrasound speech enhancement without real ultrasound signals**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2024.
-- **C2.** **<u>Q Zhang</u>**, Y Lan, K Guo, D Wang, **Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2024.
+- **<u>Q Zhang</u>**, K Liu, D Wang, **Sensing to hear through memory: Ultrasound speech enhancement without real ultrasound signals**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2024.
+- **<u>Q Zhang</u>**, Y Lan, K Guo, D Wang, **Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2024.
 
 ### 2023
 
-- **C1.** AJ Akbar, Z Sheng, **<u>Q Zhang</u>**, D Wang, **Cross-Domain Gesture Sequence Recognition for Two-Player Exergames using COTS mmWave Radar**, *Proceedings of the ACM on Human-Computer Interaction 7 (ISS), 327-356*, 2023.
+-  AJ Akbar, Z Sheng, **<u>Q Zhang</u>**, D Wang, **Cross-Domain Gesture Sequence Recognition for Two-Player Exergames using COTS mmWave Radar**, *Proceedings of the ACM on Human-Computer Interaction 7 (ISS), 327-356*, 2023.
 
 ### 2022
 
-- **C1.** Z Sheng, H Xu, **<u>Q Zhang</u>**, D Wang, **Facilitating radar-based gesture recognition with self-supervised learning**, *2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022.
-- **C2.** H Ma, W Zhao, **<u>Q Zhang</u>**, D Liu, H Ren, H Zhu, Y Chi, F Ding, W Guo, **Chemical environment dependent Stabilities, electronic properties and diffusions behaviors of intrinsic point defects in novel Two-Dimensional MoSi2N4 monolayer**, *Applied Surface Science 592, 153214*, 2022.
-- **C3.** **<u>Q Zhang</u>**, JZ Jing, D Wang, R Zhao, **Wearsign: Pushing the limit of sign language translation using inertial and emg wearables**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2022.
+- Z Sheng, H Xu, **<u>Q Zhang</u>**, D Wang, **Facilitating radar-based gesture recognition with self-supervised learning**, *2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)*, 2022.
+- H Ma, W Zhao, **<u>Q Zhang</u>**, D Liu, H Ren, H Zhu, Y Chi, F Ding, W Guo, **Chemical environment dependent Stabilities, electronic properties and diffusions behaviors of intrinsic point defects in novel Two-Dimensional MoSi2N4 monolayer**, *Applied Surface Science 592, 153214*, 2022.
+- **<u>Q Zhang</u>**, JZ Jing, D Wang, R Zhao, **Wearsign: Pushing the limit of sign language translation using inertial and emg wearables**, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, 2022.
 
 ### 2021
 
